@@ -12,7 +12,7 @@ import javax.swing.JFileChooser;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-import modul_1.pierwszy_program;
+import krzysio_javaedition.krzysio_javaedition;
 
 public class krzysio_javaedition extends JFrame implements ActionListener
 {
@@ -38,6 +38,6 @@ public class krzysio_javaedition extends JFrame implements ActionListener
             Object zrodlo = e.getSource();
             if(zrodlo==eksplorator_krzysio)
 
-            
+    }         
 }
-}
+
